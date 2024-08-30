@@ -14,7 +14,7 @@ window.addEventListener('load', ()=>{
         "./Alphabet/H.jpeg",
         "./Alphabet/I.jpeg",
         "./Alphabet/J.jpeg",
-        "./Alphabet/K.jpeg",
+        "./Alphabet/k.jpeg",
         "./Alphabet/L.jpeg",
         "./Alphabet/M.jpeg",
         "./Alphabet/N.jpeg",
